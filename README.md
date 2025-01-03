@@ -1,6 +1,5 @@
 === OpenAI Content Generator ===
-Contributors: YourName  
-Donate link: https://dhia-abedraba@gmail.com  
+Contributors: Dhia Abedraba
 Tags: content generation, OpenAI, AI, article writing, image generation, SEO  
 Requires at least: 5.0  
 Tested up to: 6.3  
